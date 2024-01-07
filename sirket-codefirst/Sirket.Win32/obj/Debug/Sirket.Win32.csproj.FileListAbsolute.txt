@@ -1,0 +1,14 @@
+C:\Users\ARIBILGI\Desktop\ronaldo\sirket-codefirst\Sirket.Win32\bin\Debug\Sirket.Win32.exe.config
+C:\Users\ARIBILGI\Desktop\ronaldo\sirket-codefirst\Sirket.Win32\bin\Debug\Sirket.Win32.exe
+C:\Users\ARIBILGI\Desktop\ronaldo\sirket-codefirst\Sirket.Win32\bin\Debug\Sirket.Win32.pdb
+C:\Users\ARIBILGI\Desktop\ronaldo\sirket-codefirst\Sirket.Win32\bin\Debug\EntityFramework.dll
+C:\Users\ARIBILGI\Desktop\ronaldo\sirket-codefirst\Sirket.Win32\bin\Debug\EntityFramework.SqlServer.dll
+C:\Users\ARIBILGI\Desktop\ronaldo\sirket-codefirst\Sirket.Win32\bin\Debug\EntityFramework.xml
+C:\Users\ARIBILGI\Desktop\ronaldo\sirket-codefirst\Sirket.Win32\bin\Debug\EntityFramework.SqlServer.xml
+C:\Users\ARIBILGI\Desktop\ronaldo\sirket-codefirst\Sirket.Win32\obj\Debug\Sirket.Win32.csproj.AssemblyReference.cache
+C:\Users\ARIBILGI\Desktop\ronaldo\sirket-codefirst\Sirket.Win32\obj\Debug\Sirket.Win32.Properties.Resources.resources
+C:\Users\ARIBILGI\Desktop\ronaldo\sirket-codefirst\Sirket.Win32\obj\Debug\Sirket.Win32.csproj.GenerateResource.cache
+C:\Users\ARIBILGI\Desktop\ronaldo\sirket-codefirst\Sirket.Win32\obj\Debug\Sirket.Win32.csproj.CoreCompileInputs.cache
+C:\Users\ARIBILGI\Desktop\ronaldo\sirket-codefirst\Sirket.Win32\obj\Debug\Sirket.Win32.csproj.CopyComplete
+C:\Users\ARIBILGI\Desktop\ronaldo\sirket-codefirst\Sirket.Win32\obj\Debug\Sirket.Win32.exe
+C:\Users\ARIBILGI\Desktop\ronaldo\sirket-codefirst\Sirket.Win32\obj\Debug\Sirket.Win32.pdb
